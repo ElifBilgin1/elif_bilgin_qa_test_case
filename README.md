@@ -1,1 +1,1 @@
-# elif_bilgin_qa_test_case
+python -m unittest tests/UITest.py -v
